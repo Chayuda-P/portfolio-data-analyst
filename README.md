@@ -16,10 +16,10 @@ https://replit.com/@PangChayuda/pizzaorder
 ### 4. R: Data tranformation 
 Find answer of 5 question that ask about flights data set
 
-## 5. R : Data Visualization
+### 5. R : Data Visualization
 Build chart from ggplot
 
-## 6. Store report on Looker studio 
+### 6. Store report on Looker studio 
 https://lookerstudio.google.com/reporting/58948b8d-7093-4635-a097-6c1d87aa3b11/page/rA5cD
 
 
