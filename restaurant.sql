@@ -1,7 +1,5 @@
 ## Create_table part
 
-sqlite3restarant.db
-
 CREATE TABLE Menu (
   	 menuID INT,
      Menu_name Text
