@@ -22,5 +22,8 @@ Build chart from ggplot
 ### 6. Store report on Looker studio 
 https://lookerstudio.google.com/reporting/58948b8d-7093-4635-a097-6c1d87aa3b11/page/rA5cD
 
+### 7. Tableau dashboard
+https://public.tableau.com/views/Book1_16962347095300/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 
 
